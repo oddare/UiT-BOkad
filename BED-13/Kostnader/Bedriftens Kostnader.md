@@ -77,3 +77,4 @@ Tjenesteytende bedrifter har som regel ingen varekostnader da fokuset er å yte 
 For å gjøre disse tjenestene er det vanlig å forbruke noe driftsmateriell som inngår i begrepet *andre driftskostnader*.
 
 # [[Lønnskostnader]]
+
