@@ -69,3 +69,4 @@ For industribedrifter benyttes ofte begrepet "materialkostnader" når en snakker
 	- Kostnaden for materialer medregnet alle innkjøpskostnader
 		- F.eks frakt, toll og andre kostnader frem til de er på lager
 	- Materialers gjenanskaffelspris kan endre seg fra periode til periode avhengig av hvor lenge materialene ligger på lager
+## Handelsbedrifter
