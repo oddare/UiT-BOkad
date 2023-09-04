@@ -28,7 +28,7 @@ Må tenke [periodisering](obsidian://open?vault=The%20Vault&file=UiT%2FBED-13%2F
 # Periodisering
 Periodisering, også kalt tidsavgrensning, er handlingen av å avgrense tidsrommet en beregner bedriftens aktivitet i.
 
-Ettersom bedrifter vanligvis har lager med råvarer er sjeldent tidsrommet hvor varer [bearbeides](Bearbeidelse)/selges likt med når varer kjøpes. Det er derfor viktig å skille mellom anskaffelse (utgift) og forbruk (kostnad).
+Ettersom bedrifter vanligvis har lager med råvarer er sjeldent tidsrommet hvor varer [bearbeides](Bearbeidelse.md)/selges likt med når varer kjøpes. Det er derfor viktig å skille mellom anskaffelse (utgift) og forbruk (kostnad).
 
 Resultatet for en periode får man ved å trekke periodens kostnader fra periodens inntekter.
 ## Eksempel

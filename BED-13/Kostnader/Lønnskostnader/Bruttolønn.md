@@ -1,0 +1,1 @@
+Bruttolønn er lønnen utbetalt til den ansatte før det trekkes fra skatt og andre kostnader som f.eks fagforbundsavgift.

@@ -1,0 +1,2 @@
+En utgift er relatert til et gitt tidspunkt relatert til en forpliktelse bedriften gjør om å betale for en gitt vare.
+Det kan være forhåndsbetalt, betalt ved overtakelse eller etterbetalt ([kredittid]()).

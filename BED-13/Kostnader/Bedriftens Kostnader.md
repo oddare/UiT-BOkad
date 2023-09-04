@@ -3,11 +3,11 @@
 
 > Kostnader er forbruk av produksjonsfaktorer vurdert i penger
 
-En kostnad er ikke en [utgift](Utgift) da kostnaden skjer på forbrukstidspunktet, ikke på transaksjonstidspunktet.
+En kostnad er ikke en [utgift](Utgift.md) da kostnaden skjer på forbrukstidspunktet, ikke på transaksjonstidspunktet.
 # Periodisering
 Periodisering, også kalt tidsavgrensning, er handlingen av å avgrense tidsrommet en beregner bedriftens aktivitet i.
 
-Ettersom bedrifter vanligvis har lager med råvarer er sjeldent tidsrommet hvor varer [bearbeides](Bearbeidelse)/selges likt med når varer kjøpes. Det er derfor viktig å skille mellom anskaffelse (utgift) og forbruk (kostnad).
+Ettersom bedrifter vanligvis har lager med råvarer er sjeldent tidsrommet hvor varer [bearbeides](Bearbeidelse.md)/selges likt med når varer kjøpes. Det er derfor viktig å skille mellom anskaffelse (utgift) og forbruk (kostnad).
 
 Resultatet for en periode får man ved å trekke periodens kostnader fra periodens inntekter.
 ## Eksempel
@@ -58,7 +58,7 @@ For industribedrifter benyttes ofte begrepet "materialkostnader" når en snakker
 - Halvfabrikata
 	- Ferdige delkomponenter/foredlede mellomprodukter som inngår i bedriftens ferdige produkter
 - Handelsvarer
-	- Ferdige produkter som kjøpes og selges uten [[bearbeidelse]]
+	- Ferdige produkter som kjøpes og selges uten [[Bearbeidelse]]
 	- Handelsvarer spesifiseres særskilt eller inngår i fellesbetegnelsen for varekostnad i kostnadsoppsettet
 - Driftsmateriell
 	- Materialer som forbrukes i tilvirkningen av ferdigstilte produkter men som ikke selv blir en del av produktet
@@ -81,7 +81,7 @@ Lønnkostnader er en fellesbetegnelse for alle kostnader relatert til den ansatt
 
 | Lønnstype                                      | Informasjon                         |
 | ---------------------------------------------- | ----------------------------------- |
-| Utbetalt [[bruttolønn]]                            | nettolønn + skattetrekk             |
+| Utbetalt [[Bruttolønn]]                            | nettolønn + skattetrekk             |
 | + [[Feriepenger]]                                  | Lovpålagt/Tariffestet               |
 | + [[Arbeidsgiveravgift]]                           | Lovpålagt                           |
 | + [[Yrkedsskadeforsikring]]                        | Lovpålagt                           |
