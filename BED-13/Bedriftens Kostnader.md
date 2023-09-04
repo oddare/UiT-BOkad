@@ -70,3 +70,4 @@ For industribedrifter benyttes ofte begrepet "materialkostnader" når en snakker
 		- F.eks frakt, toll og andre kostnader frem til de er på lager
 	- Materialers gjenanskaffelspris kan endre seg fra periode til periode avhengig av hvor lenge materialene ligger på lager
 ## Handelsbedrifter
+Videreselger produkter i uendret tilstand.
