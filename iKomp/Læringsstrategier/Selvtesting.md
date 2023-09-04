@@ -1,3 +1,4 @@
+Del av [ikomp](obsidian://open?vault=The%20Vault&file=UiT%2FiKomp%2FiKomp)
 # Hvorfor selvteste
 - Studenter overvurderer egne ferdigheter 3/4 av tiden
 - Du ser hva du faktisk kan og ikke kan av stoffet

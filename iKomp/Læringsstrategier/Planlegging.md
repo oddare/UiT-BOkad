@@ -1,3 +1,4 @@
+Del av [ikomp](ikomp)
 ## Fordeler
 - Læringen spres utover tid og blir mer effektiv
 - Lette å bruke en tenksom og dyp tilnærming til læringsoppgavene i studieløpet

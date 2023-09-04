@@ -1,3 +1,4 @@
+Del av [ikomp](obsidian://open?vault=The%20Vault&file=UiT%2FiKomp%2FiKomp)
 # Hvorfor
 - Understreking/Tekstmarkering er lite effektivt
 - Tenking underveis i lesing er vesentlig mer effektivt
