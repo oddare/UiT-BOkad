@@ -77,5 +77,15 @@ Tjenesteytende bedrifter har som regel ingen varekostnader da fokuset er å yte 
 For å gjøre disse tjenestene er det vanlig å forbruke noe driftsmateriell som inngår i begrepet *andre driftskostnader*.
 
 # Lønnskostnader
-Lønnkostnader er en fellesbetegnelse for alle kostnader relatert til de ansattes lønn. Dette kan være direkte lønn, bonuser, pensjon, skatt og avgifter eller andre kostnader.
-Det er vanlig at lønn er en stor del av bedriftens kostnader og i tjenesteytende bedrifter kan det være tilnærmet alt.
+Lønnkostnader er en fellesbetegnelse for alle kostnader relatert til den ansattes lønn. Det er vanlig at lønn er en stor del av bedriftens kostnader og i tjenesteytende bedrifter kan det være tilnærmet alt.
+
+| Lønnstype                                      | Informasjon                         |
+| ---------------------------------------------- | ----------------------------------- |
+| Utbetalt [[bruttolønn]]                            | nettolønn + skattetrekk             |
+| + [[Feriepenger]]                                  | Lovpålagt/Tariffestet               |
+| + [[Arbeidsgiveravgift]]                           | Lovpålagt                           |
+| + [[Yrkedsskadeforsikring]]                        | Lovpålagt                           |
+| + [[Premie til tjenestepensjon]]                   | Lovpålagt                           |
+| + [[Andre tarifftestede eller frivillige ytelser]] | Ekstra forsikring, fri telefon, osv |
+| = Lønnskostnader                               |                                     |
+
