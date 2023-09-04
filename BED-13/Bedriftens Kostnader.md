@@ -61,7 +61,7 @@ For industribedrifter benyttes ofte begrepet "materialkostnader" når en snakker
 	- Ferdige produkter som kjøpes og selges uten [[bearbeidelse]]
 	- Handelsvarer spesifiseres særskilt eller inngår i fellesbetegnelsen for varekostnad i kostnadsoppsettet
 - Driftsmateriell
-	- Materieller som forbrukes i tilvirkningen av ferdigstilte produkter men som ikke selv blir en del av produktet
+	- Materialer som forbrukes i tilvirkningen av ferdigstilte produkter men som ikke selv blir en del av produktet
 	- F.eks sandpapir for å pusse trestatuer
 	- El.kraft er vanlig å regne som driftsmateriell men spesifieres ofte som egen kostnadspost
 		- For store smelteverk er el.kraft å anse som en viktig råvare, selv om det ikke er å se i det ferdigstilte produkt
