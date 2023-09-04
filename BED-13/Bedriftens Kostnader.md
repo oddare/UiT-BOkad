@@ -66,4 +66,6 @@ For industribedrifter benyttes ofte begrepet "materialkostnader" når en snakker
 	- El.kraft er vanlig å regne som driftsmateriell men spesifieres ofte som egen kostnadspost
 		- For store smelteverk er el.kraft å anse som en viktig råvare, selv om det ikke er å se i det ferdigstilte produkt
 - Inntakskost
-	- 
+	- Kostnaden for materialer medregnet alle innkjøpskostnader
+		- F.eks frakt, toll og andre kostnader frem til de er på lager
+	- Materialers gjenanskaffelspris kan endre seg fra periode til periode avhengig av hvor lenge materialene ligger på lager
