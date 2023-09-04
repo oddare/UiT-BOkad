@@ -70,4 +70,12 @@ For industribedrifter benyttes ofte begrepet "materialkostnader" når en snakker
 		- F.eks frakt, toll og andre kostnader frem til de er på lager
 	- Materialers gjenanskaffelspris kan endre seg fra periode til periode avhengig av hvor lenge materialene ligger på lager
 ## Handelsbedrifter
-Videreselger produkter i uendret tilstand, varekostnadene blir da vareforbruket/salget av de innkjøpte handelsvarer.
+Videreselger produkter i uendret tilstand, varekostnadene blir da vareforbruket av de innkjøpte handelsvarer og betegnes som solgte varers inntakskost.
+Handelsbedrifter kan også forbruke noe driftsmateriell, f.eks el. kraft. som inngår i *andre driftskostnader*.
+## Tjenesteytende bedrifter
+Tjenesteytende bedrifter har som regel ingen varekostnader da fokuset er å yte en tjeneste i form av råd, arbeidskraft eller annet.
+For å gjøre disse tjenestene er det vanlig å forbruke noe driftsmateriell som inngår i begrepet *andre driftskostnader*.
+
+# Lønnskostnader
+Lønnkostnader er en fellesbetegnelse for alle kostnader relatert til de ansattes lønn. Dette kan være direkte lønn, bonuser, pensjon, skatt og avgifter eller andre kostnader.
+Det er vanlig at lønn er en stor del av bedriftens kostnader og i tjenesteytende bedrifter kan det være tilnærmet alt.
