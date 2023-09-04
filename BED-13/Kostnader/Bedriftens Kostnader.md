@@ -13,7 +13,7 @@ Resultatet for en periode får man ved å trekke periodens kostnader fra periode
 ## Eksempel
 Vi har en helårsforsikring på 120,000kr som betales en gang i året, i Januar. Dette vil tilsi at hver måned har en kostnad på 10,000kr mens Januar vil ha en utgift på 120,000kr. Etter 5 måneder vil bedriftens kostnadbudsjett dermed vise ett forbruk på 50,000kr.
 # Kostnadsgruppering
-Bedrifters største kostnadsarter, især [industri](industribedrift)- og [handelsbedrifter](handelsbedrift), vil være [varekostnader](varekostnad), [lønnkostnader](lønnskostnad) og [avskrivninger](Avskrivning.md). Det er også mulig, avhengig av bransje, å ha [markedsføringskostnader](markedsføring). For [tjenesteytende](tjenester) bedrifter vil den største kostnadsarten som regel være lønnskostnader, men det kan også være høye avskrivninger.
+Bedrifters største kostnadsarter, især [industri](industribedrift)- og [handelsbedrifter](handelsbedrift), vil være [varekostnader](varekostnad), [[Lønnskostnader]] og [avskrivninger](Avskrivning.md). Det er også mulig, avhengig av bransje, å ha [markedsføringskostnader](markedsføring). For [tjenesteytende](tjenester) bedrifter vil den største kostnadsarten som regel være lønnskostnader, men det kan også være høye avskrivninger.
 ## Eksempel på kostnadsoppsett for industribedrift:
 | Kostnadsgruppe                     | Kostnadsart                                                      |
 | ---------------------------------- | ---------------------------------------------------------------- |
@@ -76,16 +76,4 @@ Handelsbedrifter kan også forbruke noe driftsmateriell, f.eks el. kraft. som in
 Tjenesteytende bedrifter har som regel ingen varekostnader da fokuset er å yte en tjeneste i form av råd, arbeidskraft eller annet.
 For å gjøre disse tjenestene er det vanlig å forbruke noe driftsmateriell som inngår i begrepet *andre driftskostnader*.
 
-# Lønnskostnader
-Lønnkostnader er en fellesbetegnelse for alle kostnader relatert til den ansattes lønn. Det er vanlig at lønn er en stor del av bedriftens kostnader og i tjenesteytende bedrifter kan det være tilnærmet alt.
-
-| Lønnstype                                      | Informasjon                         |
-| ---------------------------------------------- | ----------------------------------- |
-| Utbetalt [[Bruttolønn]]                            | nettolønn + skattetrekk             |
-| + [[Feriepenger]]                                  | Lovpålagt/Tariffestet               |
-| + [[Arbeidsgiveravgift]]                           | Lovpålagt                           |
-| + [[Yrkedsskadeforsikring]]                        | Lovpålagt                           |
-| + [[Premie til tjenestepensjon]]                   | Lovpålagt                           |
-| + [[Andre tarifftestede eller frivillige ytelser]] | Ekstra forsikring, fri telefon, osv |
-| = Lønnskostnader                               |                                     |
-
+# [[Lønnskostnader]]
