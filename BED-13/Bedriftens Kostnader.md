@@ -50,3 +50,20 @@ Bedrifters største kostnadsarter, især [industri](industribedrift)- og [handel
 Med unntak av tjenesteytende bedrifter er varekostnader en stor kostnadsart i alle virksomheter.
 ## Industribedrifter
 For industribedrifter benyttes ofte begrepet "materialkostnader" når en snakker om varekostnader.
+### Inndeling av materialer
+- Råvarer
+	- Produkter i sin råe form, f.eks trevirke, leire, bomull og ull
+	- Kan også inkludere metaller, selv smeltet
+	- Danner utgangspunktet for tilvirkning av produkter og utgjør en vesentlig del av bedrifters ferdige produkter
+- Halvfabrikata
+	- Ferdige delkomponenter/foredlede mellomprodukter som inngår i bedriftens ferdige produkter
+- Handelsvarer
+	- Ferdige produkter som kjøpes og selges uten [[bearbeidelse]]
+	- Handelsvarer spesifiseres særskilt eller inngår i fellesbetegnelsen for varekostnad i kostnadsoppsettet
+- Driftsmateriell
+	- Materieller som forbrukes i tilvirkningen av ferdigstilte produkter men som ikke selv blir en del av produktet
+	- F.eks sandpapir for å pusse trestatuer
+	- El.kraft er vanlig å regne som driftsmateriell men spesifieres ofte som egen kostnadspost
+		- For store smelteverk er el.kraft å anse som en viktig råvare, selv om det ikke er å se i det ferdigstilte produkt
+- Inntakskost
+	- 
